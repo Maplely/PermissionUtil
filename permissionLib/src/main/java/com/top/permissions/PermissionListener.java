@@ -1,4 +1,4 @@
-package com.top.permissionutil.PermissionUtils;
+package com.top.permissions;
 
 import java.util.List;
 

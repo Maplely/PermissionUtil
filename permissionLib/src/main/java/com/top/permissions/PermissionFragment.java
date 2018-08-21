@@ -1,4 +1,4 @@
-package com.top.permissionutil.PermissionUtils;
+package com.top.permissions;
 
 import android.content.pm.PackageManager;
 import android.os.Bundle;

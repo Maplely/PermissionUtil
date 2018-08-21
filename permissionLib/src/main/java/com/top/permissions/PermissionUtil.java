@@ -1,4 +1,4 @@
-package com.top.permissionutil.PermissionUtils;
+package com.top.permissions;
 
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;

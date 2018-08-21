@@ -5,8 +5,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
-import com.top.permissionutil.PermissionUtils.PermissionListener;
-import com.top.permissionutil.PermissionUtils.PermissionUtil;
+import com.top.permissions.PermissionListener;
+import com.top.permissions.PermissionUtil;
 
 import java.util.List;
 
