@@ -1,4 +1,6 @@
 # PermissionUtil
+[![](https://jitpack.io/v/top2015/PermissionUtil.svg)](https://jitpack.io/#top2015/PermissionUtil)
+------------
 6.0之后android版本需要权限动态申请 此工具类解决了申请与结果分离的问题 优点为使用者更为清晰
 ### 用法
 ```
