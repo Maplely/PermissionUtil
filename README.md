@@ -42,7 +42,7 @@ dependencies {
 1. 利用fragment 绑定activity的生命周期
 2. 仿glide链式调用 不需要再onRequestPermissionsResult()中回调处理 逻辑更加清晰
 
-### 联系方式及反馈 | Contract & FeedBack
+### Contract & FeedBack
 Author: Li Haitao
 
 Email: haitao.li_2016@163.com
